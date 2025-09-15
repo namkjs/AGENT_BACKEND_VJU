@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+transformers
+torch
+pillow
+pdf2image
+python-docx
+httpx
+python-dotenv
